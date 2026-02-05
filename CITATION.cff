@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use the Xenium cropping notebook or workflows in this repository, please cite it."
 title: "Xenium ROI Cropping + FICTURE Workflows"
 type: software
+doi: 10.5281/zenodo.18490063
 authors:
   - family-names: "Sabir"
     given-names: "Yaseer"
@@ -40,3 +41,4 @@ preferred-citation:
       given-names: "Alberto"
   year: 2026
   url: "https://github.com/CruzMartinLab/xenium-punkst-workflows"
+  doi: 10.5281/zenodo.18490063
